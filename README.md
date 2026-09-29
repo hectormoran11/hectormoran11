@@ -36,9 +36,8 @@ Sistemas:
 <img src=https://img.shields.io/badge/Windows-%230078d7>
  
 Redes:   
-<img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E
-"> <img src="https://img.shields.io/badge/DNS%2FIP-5E5E5E
-"> <img src="https://img.shields.io/badge/DHCP%2FIP-5E5E5E"> 
+<img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E"> 
+<img src="https://img.shields.io/badge/DNS%2FIP-5E5E5E"> <img src="https://img.shields.io/badge/DHCP%2FIP-5E5E5E"> 
 <img src="https://img.shields.io/badge/VLAN%2FIP-5E5E5E">
 <img src="https://img.shields.io/badge/ROUTING%2FIP-5E5E5E"> 
 
