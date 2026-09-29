@@ -21,8 +21,7 @@ Mi objetivo es continuar desarrollándome profesionalmente en el ámbito de la a
 
 
 #### Sistemas:  
-<img src=https://img.shields.io/badge/Linux-%23ffcc33>
-<img src=https://img.shields.io/badge/Windows-%230078d7>
+<img src=https://img.shields.io/badge/Linux-%23ffcc33><img src=https://img.shields.io/badge/Windows-%230078d7>
  
 #### Redes:   
 <img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E"> 
