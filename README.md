@@ -21,26 +21,19 @@ Mi objetivo es continuar desarrollándome profesionalmente en el ámbito de la a
 
 
 #### Sistemas:  
-<img src=https://img.shields.io/badge/Linux-%23ffcc33><img src=https://img.shields.io/badge/Windows-%230078d7>
+<img src=https://img.shields.io/badge/Linux-%23ffcc33> <img src=https://img.shields.io/badge/Windows-%230078d7>
  
 #### Redes:   
-<img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E"> 
-<img src="https://img.shields.io/badge/DNS%2FIP-5E5E5E"> <img src="https://img.shields.io/badge/DHCP%2FIP-5E5E5E"> 
-<img src="https://img.shields.io/badge/VLAN%2FIP-5E5E5E">
-<img src="https://img.shields.io/badge/ROUTING%2FIP-5E5E5E"> 
+<img src="https://img.shields.io/badge/TCP%2FIP-5E5E5E"><img src="https://img.shields.io/badge/DNS%2FIP-5E5E5E"><img src="https://img.shields.io/badge/DHCP%2FIP-5E5E5E"><img src="https://img.shields.io/badge/VLAN%2FIP-5E5E5E"><img src="https://img.shields.io/badge/ROUTING%2FIP-5E5E5E"> 
 
 #### Virtualización:  
-<img src="https://img.shields.io/badge/VirtualBox-183A61">
-<img src="https://img.shields.io/badge/VMware-EB7900"> 
+<img src="https://img.shields.io/badge/VirtualBox-183A61"><img src="https://img.shields.io/badge/VMware-EB7900"> 
 
 #### Scripting:  
-<img src="https://img.shields.io/badge/Bash-121011"> <img src="https://img.shields.io/badge/PowerShell-5391FE">
+<img src="https://img.shields.io/badge/Bash-121011"><img src="https://img.shields.io/badge/PowerShell-5391FE">
 
 #### Herramientas:  
-<img src="https://img.shields.io/badge/Git-F05032">
-<img src="https://img.shields.io/badge/GitHub-181717"> 
-<img src="https://img.shields.io/badge/Active_Directory-0078D4"> 
-<img src="https://img.shields.io/badge/SQL-336791">
+<img src="https://img.shields.io/badge/Git-F05032"><img src="https://img.shields.io/badge/GitHub-181717"> <img src="https://img.shields.io/badge/Active_Directory-0078D4"><img src="https://img.shields.io/badge/SQL-336791">
 
 ##
 Áreas de interés
